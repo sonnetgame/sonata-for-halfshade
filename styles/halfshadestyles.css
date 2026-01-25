@@ -19,7 +19,7 @@ html, body {
     
     /* background-color: #642121; */
     font-family: 'Munro', sans-serif;
-    color:#f1ebcf;
+    color:#836183;
     overflow-x: hidden;
     touch-action: manipulation;
 }
@@ -71,6 +71,7 @@ img
     /* height: 100%;
     width: 100vw; */
     flex-direction:column;
+    padding-top:180px;
 }
 
 .wrapper-scale {
