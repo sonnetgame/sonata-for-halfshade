@@ -156,6 +156,15 @@ img
 
   }
 
+  @media screen and (max-width: 1200px) {
+
+      .wrapper {
+      transform: scale(0.5);
+        max-height: 30vh;
+    }
+
+  }
+
   @media screen and (max-width: 900px) {
 
     /* .wrapper-scale {
@@ -207,15 +216,12 @@ img
       /* height:100%; */
     }
     
-    .wrapper-scale{
+    /* .wrapper-scale{
       transform: none;
-      /* height:100%; */
       width:100%;
       display:flex;
       flex-direction: column;
-      
-
-    }
+    } */
 
     /* .wrapper{
       padding:20px;
